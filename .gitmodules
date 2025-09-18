@@ -1,12 +1,12 @@
 [submodule "Iot-class-2025-publisher"]
 	path = Iot-class-2025-publisher
-	url = https://github.com/avatargrim/Iot_mini_project.git
+	url = https://github.com/avatargrim/Iot-class-2025-publisher.git
 [submodule "Iot-class-2025-data-to-influxdb"]
 	path = Iot-class-2025-data-to-influxdb
-	url = https://github.com/avatargrim/Iot_mini_project.git
+	url = https://github.com/avatargrim/Iot-class-2025-data-to-influxdb.git
 [submodule "Iot-class-2025-mqtt-bridge-kafka"]
 	path = Iot-class-2025-mqtt-bridge-kafka
-	url = https://github.com/avatargrim/Iot_mini_project.git
+	url = https://github.com/avatargrim/Iot-class-2025-mqtt-bridge-kafka.git
 [submodule "Iot-class-2025-online-ml-predict"]
 	path = Iot-class-2025-online-ml-predict
-	url = https://github.com/avatargrim/Iot_mini_project.git
+	url = https://github.com/avatargrim/Iot-class-2025-online-ml-predict.git
